@@ -1,0 +1,5 @@
+Flask==2.0.1
+boto3
+gunicorn
+Werkzeug<3.0
+flask-cors
